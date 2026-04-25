@@ -1,0 +1,83 @@
+html {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffffff;
+    text-align: center;
+    width:100%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #333333;
+    font-size: 36px;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    color: #333333;
+    font-size: 28px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+p {
+    color: #666666;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+}
+
+nav a {
+    color: #333333;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #77a6da;
+}
+
+nav a.active {
+    color: #77a6da;
+    font-weight: bold;
+}
+
+#hero {
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#projects {
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#contact {
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
